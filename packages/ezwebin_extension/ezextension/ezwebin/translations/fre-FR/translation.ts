@@ -40,6 +40,25 @@
     </message>
 </context>
 <context>
+    <name>design/ezodf/import</name>
+    <message>
+        <source>Create or update the translation in:</source>
+        <translation>Créer ou mettre à jour la traduction dans:</translation>
+    </message>
+    <message>
+        <source>Existing translations</source>
+        <translation>Traductions disponibles</translation>
+    </message>
+    <message>
+        <source>New translations</source>
+        <translation>Nouvelle traduction</translation>
+    </message>
+    <message>
+        <source>Import in:</source>
+        <translation>Importer dans:</translation>
+    </message>
+</context>
+<context>
     <name>design/ezwebin/article/article_index</name>
     <message>
         <source>Article index</source>
@@ -1171,6 +1190,10 @@ the appropriate class during the import, you get a notice about this after the i
 Images are placed in the media library so you can re-use them in other articles.</source>
         <translation>Vous pouvez importez un document OpenOffice.org Writer directement dans eZ publish depuis cette page. Dites nous où placer le document er eZ Publish s&apos;occupe du reste. Ce document est converti dans la classe appropriée durant l&apos;import, vous serez averti une fois l&apos;import effectué.
 Les images sont placées dans la médiathèque, vous pouvez les réutiliser dans d&apos;autres articles.</translation>
+    </message>
+    <message>
+        <source>File:</source>
+        <translation>Fichier:</translation>
     </message>
 </context>
 <context>
